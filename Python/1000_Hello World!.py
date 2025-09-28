@@ -1,2 +1,2 @@
-# Imprime "Hello World!" na tela.
+# Imprime "Hello World!".
 print("Hello World!")

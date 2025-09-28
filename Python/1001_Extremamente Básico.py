@@ -4,5 +4,5 @@ a = int(input())
 b = int(input())
 
 # Calcula a soma de 'a' e 'b' e imprime no formato solicitado.
-# O resultado será exibido como: X = <valor da soma>.
+# O resultado será exibido como: X = <a + b>.
 print("X =", a + b)
