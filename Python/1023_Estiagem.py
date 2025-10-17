@@ -19,7 +19,7 @@ while True:
     # Se for 0, o programa termina
     if n == 0:
         break
-
+    
     # Dicionário para armazenar o consumo médio -> total de pessoas
     consumo = {}
 
